@@ -5654,6 +5654,10 @@ button.bg-dark:focus {
   -ms-flex-pack: center !important;
   justify-content: center !important; }
 
+.advisors-button {
+  padding-bottom: 25px;
+}
+
 .justify-content-between {
   -webkit-box-pack: justify !important;
   -ms-flex-pack: justify !important;
@@ -8742,12 +8746,12 @@ h1, h2, h3, h4, h5,
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
-  transition: all 0.3s ease; }
+  transition: all 0.3s ease;}
   @media (max-width: 991.98px) {
     .pricing-entry {
       margin-bottom: 30px; } }
   .pricing-entry > div {
-    padding: 20px; }
+    padding: 10px; }
     .pricing-entry > div p {
       margin-bottom: 0; 
       color: #54c8e8;}
