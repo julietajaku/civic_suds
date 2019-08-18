@@ -8692,6 +8692,10 @@ h1, h2, h3, h4, h5,
 /*  .staff:hover .text h3, .staff:focus .text h3 {
     color: #ff6c0e; }*/
 
+.advisors {
+  color: #000b8c;
+  }
+
 .ftco-social {
   padding: 0; }
   .ftco-social li {
