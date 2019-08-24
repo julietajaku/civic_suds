@@ -8015,13 +8015,13 @@ a {
   color: #54c8e8; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #54c8e8;
+    color: #ff6c0e;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #fff;
+  color: #000b83;
   font-weight: 400; }
 
 .text-primary {
@@ -8717,6 +8717,16 @@ h1, h2, h3, h4, h5,
   font-style: bold;
   }
 
+.p-blog{
+  color: #000b8c;
+  text-indent: left;
+  }
+
+.p-blog-quote{
+  font-style: italic;
+  color: #54c8e8;
+  }
+
 .advisors-subheading {
   font-size: 14px;
   }
@@ -8924,6 +8934,10 @@ textarea.form-control {
 
 .ftco-section {
   padding: 7em 0;
+  position: relative; }
+
+.ftco-section-blog {
+  padding: 3em 0;
   position: relative; }
 
 .ftco-no-pt {
